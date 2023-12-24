@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: goldenrod
+}
+
+nav{
+    border: 2px solid lightgrey;
+    padding: 10px ;
+    border-radius:10px ;
+    margin:10px;
+}
+nav a{
+    text-decoration: none;
+    color: lightgrey;
+    margin: 15px;
+}
+h1{
+    color: orange;
+    text-align: center;
+}
+
+footer .contacts {
+    background-color: orangered;
+}
+
+footer p{
+    background-color: orangered;
+}
+
+p img {
+    background-color: tomato;
+    border: 2px solid tomato;
+    border-radius: 10px;
+}
+.product{
+      background-color: tomato;
+    border: 2px solid tomato;
+    border-radius: 10px;
+}
+
+.picture{
+    border:2px solid lightblue;
+    border-radius:10px ;
+}
