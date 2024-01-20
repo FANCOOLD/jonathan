@@ -1,0 +1,67 @@
+<html>
+    <title> The Bishkek football store</title>
+    <body style="font-family:sans-serif;">
+        <header style="background:black;color:SteelBlue">
+          <a href="#football" style = color":white;font size:20px:">какие вещи мы продаем?</a>
+          <a href="#price" style = color":white;font size:20px:">прайс-лист</a>
+        </header>
+      <main>
+        <h1 style="text-align:center;font-size:50px;">The Bishkek football store</h1>
+        <h2 style="text-align:center;font-size:40px;">магазин, где есть всё для футбола!</h2>
+        <img src="https://th.bing.com/th/id/R.56dda23510e4fd14638ef2e1e273595c?rik=9DqIcAlmeg374g&riu=http%3a%2f%2fretaildesignblog.net%2fwp-content%2fuploads%2f2012%2f10%2fTAF-football-store-by-Mao-Livre-Colombo-03.jpg&ehk=fVC2SsP3whlcRRRKbh2%2fLFbY9HMXN0PLRFM9KBmfEjE%3d&risl=&pid=ImgRaw&r=0" width="600px" height="400px"/>
+ <h2 id="football"> мы продаем разные продукций</h2>
+<p>Вы хотите играть как можно лучше?
+
+    <br>Вы очень любите играть в футбол, но у вас нет подходящей экипировки?
+    <br>в нашем магазине есть все, что вам может понадобиться.
+    <br>от удивительных футбольных бутс до вратарских перчаток и даже щитков для голени!
+    <br>также футбольные комплекты, футбольные мячи и даже модные вещи, связанные с футболом.
+</p>
+<p>
+<img src="https://th.bing.com/th/id/OIP.pUMDOEBbQZt9teHLk6-fcwHaEG?pid=ImgDet&rs=1" width="150px" height="190"/>
+<img src="https://th.bing.com/th?id=OIF.INuuXP3nHIqksj%2bzLXyztA&pid=ImgDet&rs=1" width="150px"/>
+<img src="https://th.bing.com/th/id/OIP.C2_g2xIfYf56iW0_LmigJwHaJP?pid=ImgDet&rs=1"width="150px"/>
+</p>
+<h2>чем наша продукция хороша?</h2>
+<p>мы покупаем нашу одежду у надежных поставщиков, таких как Adidas, Nike, Puma и т. д.!
+<br>мы стараемся сохранить всю нашу одежду на 100 процентов оригинальной!
+<br>где все наши сотрудники тщательно проверяют товары, что делает нас счастливыми и каждого клиента, покупающего нашу продукцию!
+</p>
+<p>
+  <img src="https://th.bing.com/th/id/R.f80a7826b2b25271a2cb67847b37a389?rik=KmyLaiJpMc1uow&riu=http%3a%2f%2fcdn2.hubspot.net%2fhubfs%2f138182%2fnumber_100_percent.jpg&ehk=zqpAP1iowhw0t9G%2f9wxGp4CosYdELk2jUJULLqVhjU4%3d&risl=&pid=ImgRaw&r=0" width="200px"/>
+  <img src="https://thumbs.dreamstime.com/z/authentic-round-grunge-stamp-ribbon-isolated-sign-163289485.jpg" width="200px"/>
+  </p>
+<h2 id="price">что ты можешь купить</h2>
+<table style="border-collapse:collapse;border:1px solid green;">
+   <tr style="border:1px solid green;background-color:SteelBlue;">
+  <td>футбольные товары </td>
+  <td>бренды </td>
+     <td>цена </td>
+
+  </tr>
+   <tr style="border:1px solid green;">
+  <td style="background-color:SteelBlue;">футбольные бутсы.</td>
+  <td>Adidas,nike,puma</td>
+      <td>от 80.тысяч.сом</td>
+   </tr>
+    <tr style="border:1px solid green;">
+    <td style="background-color:SteelBlue;">футбольные перчатки</td>
+    <td>Adidas,nike,puma</td>
+      <td>от 40 тысяч сом</td>
+      </tr>
+       <tr style="border:1px solid green;">
+       <td style="background-color:SteelBlue;">футбольные мячи</td>
+       <td>Adidas,nike,puma</td>
+       <td>от 5 тысяч сом</td>
+       </table>
+       <h2>Популярность продукта</h2>
+       <p>Нашими материалами пользуются многие игроки сборной Кыргызстана.</p>
+  <img src="https://th.bing.com/th/id/R.bd301360a231e62619c3471c13fe046e?rik=nKm9mEDv90p5Sg&pid=ImgRaw&r=0" width"100px" height="460"/>
+  </main>
+   <footer style="background-color:darkorange; color:black">
+    <a href="#start" style="color:black;font-size:30px">В начало страницы</a>
+    <p style="font-size:15px">адрес: 12 микрорайон 20/9</p>
+    <p>телефон: 996708953151</p>
+   </footer>
+</body>
+</html>
